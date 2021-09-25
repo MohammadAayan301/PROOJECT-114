@@ -1,0 +1,29 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+
+}
+
+
+.heading_div{
+    float: none;
+    background: white;
+    padding: 10px;
+    border: 20px;
+    color: black;
+}
+
+.heading_div2{
+    font-size: 18px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: grey;
+}
